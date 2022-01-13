@@ -1,6 +1,6 @@
 ## Olá, eu sou a Maria Alice Nazaré
-- Bacharelado em engenharia da computação
-- Estudando #c
+- Bacharelado em Engenharia da Computação
+- Estudando #C
 
 <div align="center">
  <a href="https://github.com/mariaalicen", >
