@@ -1,6 +1,7 @@
-## Olá, eu sou a Maria Alice Nazaré
-- Bacharelado em Engenharia da Computação
-- Estudando C#
+## Olá, eu sou a Maria Alice Brito Nazaré
+- Curso bacharelado em Engenharia da Computação pelo IFSP
+- Estudando de Software e Hardware avançado
+- Desenvolvimento e Banco de Dados
 
 <div align="center">
  <a href="https://github.com/mariaalicen", >
