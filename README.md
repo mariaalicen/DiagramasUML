@@ -1,4 +1,5 @@
-## Sou a Maria Alice, cientista de dados.
+## Olá, galera.
+- Sou a Maria Alice, cientista de dados.
 - Atualmente trabalho em uma empresa de telemarketing.
 - Me pergunte sobre tecnologia, inteligencia artificial e ficção científica.
 
