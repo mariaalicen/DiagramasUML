@@ -1,7 +1,7 @@
-## Olá, eu sou a Maria Alice Brito Nazaré
-- Curso bacharelado em Engenharia da Computação pelo IFSP
-- Estudando de Software e Hardware avançado
-- Desenvolvimento e Banco de Dados
+## Sou a Maria Alice, cientista de dados.
+- Atualmente trabalho em uma empresa de telemarketing.
+- Me pergunte sobre tecnologia, inteligencia artificial e ficção científica.
+
 
 <div align="center">
  <a href="https://github.com/mariaalicen", >
