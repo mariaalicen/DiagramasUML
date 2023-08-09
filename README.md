@@ -1,6 +1,5 @@
 ## Olá, galera.
 - Sou a Maria Alice, cientista de dados.
-- Atualmente trabalho em uma empresa de telemarketing.
 - Me pergunte sobre tecnologia, inteligencia artificial e ficção científica.
 
 - "Meu principal objetivo como profissional é ajudar as pessoas e empresas na integração com a tecnologia."
