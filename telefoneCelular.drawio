@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T02:14:17.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WAnU3sxlwYiedJxxq9P1" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-22T02:17:40.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AZndnUlXMg8_XqdpL1vN" version="24.0.7" type="github" pages="2">
   <diagram name="telefoneClasse" id="-BcGHjdlFHqwT05he9F5">
     <mxGraphModel dx="800" dy="876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CykrdgxSG63vWffU1WIo" name="telefoneCasoUso">
-    <mxGraphModel dx="1200" dy="876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
