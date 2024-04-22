@@ -1,7 +1,4 @@
-## Olá, galera.
-- Sou a Maria Alice, cientista de dados.
-
-- "Meu principal objetivo como profissional é ajudar as pessoas e empresas na integração com a tecnologia."
+## Olá
 
 
 
