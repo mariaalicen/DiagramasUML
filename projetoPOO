@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T20:09:11.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Cis7ScKQJ1ndKbHDE3NO" version="24.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-10T20:09:49.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Fzlsm9h5MMcxY21SaHcZ" version="24.3.1" type="github" pages="5">
   <diagram name="Classe" id="cuhh8ymORsn8-T4FHWqE">
     <mxGraphModel dx="1830" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xHLkjsQmBmuwDHo28IPz" name="Seq - Recomendar">
-    <mxGraphModel dx="318" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1003" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
